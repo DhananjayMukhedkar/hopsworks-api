@@ -48,8 +48,8 @@ setup(
     download_url="https://github.com/logicalclocks/hopsworks-api/releases/tag/"
     + __version__,
     packages=find_packages(),
-    long_description=read("../README.md"),
-    long_description_content_type="text/markdown",
+#    long_description=read("../README.md"),
+#    long_description_content_type="text/markdown",
     classifiers=[
         "Development Status :: 5 - Production/Stable",
         "Topic :: Utilities",
