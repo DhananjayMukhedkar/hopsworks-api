@@ -17,7 +17,7 @@ setup(
     version=__version__,
     install_requires=[
         "hsfs @ git+https://git@github.com/DhananjayMukhedkar/feature-store-api@test-3.2#egg=hsfs[python]&subdirectory=python",
-        "hsml @ git+https://git@github.com/logicalclocks/machine-learning-api@branch-3.2#egg=hsml&subdirectory=python",
+        "hsml @ git+https://git@github.com/logicalclocks/machine-learning-api@main#egg=hsml&subdirectory=python",
         "pyhumps==1.6.1",
         "requests",
         "furl",
